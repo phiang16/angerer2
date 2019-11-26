@@ -1,0 +1,16 @@
+init		->	neues Verzeichnis
+config		->	infos anzeigen
+clone		->	kopie
+add		->	änderungen vorschlagen
+rm		->	löschen
+commit		->	kommentare hinterlassen
+remote		->	mit einen entfernten repository arbeiten
+push		->	änderungen hochladen
+pull		->	aktualisieren
+status		->	status
+diff		->	unterschiede ansehen
+reset		->	änderung rückgängig machen
+log		->	liste der commit id´s
+branch		->	branch erstellen
+checkout	->	branch wechseln
+merge		->	2 branches zusammenfügen
